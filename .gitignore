@@ -1,0 +1,8 @@
+*.pdf
+*.out
+*.o
+*.output
+*.s
+lex.yy.c
+y.tab.*
+
